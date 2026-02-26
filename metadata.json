@@ -1,0 +1,7 @@
+{
+  "name": "Ethio-Amazon Digital Service",
+  "description": "Digital service Platform - For following lists:\n•  Power services, sell electronics, and teach — all on one AI-driven platform with a smart admin dashboard.\n•  Run services, grow your electronics store, and deliver courses — AI assistants + unified admin control.\n•  Sell. Serve. Teach. An all-in-one digital ecosystem with AI support and a powerful admin and editor dashboard.\n•  Launch services, scale electronics sales, and run an academy — AI help, realtime insights, one dashboard.\n•  One platform for services, retail electronics, and learning — AI support, analytics, and central admin.\n",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
